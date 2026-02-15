@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Luminaflow/static/css/main.98c2129d.css",
+    "main.js": "/Luminaflow/static/js/main.8dd4fcd4.js",
+    "static/js/453.20359781.chunk.js": "/Luminaflow/static/js/453.20359781.chunk.js",
+    "index.html": "/Luminaflow/index.html",
+    "main.98c2129d.css.map": "/Luminaflow/static/css/main.98c2129d.css.map",
+    "main.8dd4fcd4.js.map": "/Luminaflow/static/js/main.8dd4fcd4.js.map",
+    "453.20359781.chunk.js.map": "/Luminaflow/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98c2129d.css",
+    "static/js/main.8dd4fcd4.js"
+  ]
+}
